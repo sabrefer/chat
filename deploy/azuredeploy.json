@@ -14,7 +14,7 @@
     },
     "packageUrl": {
       "type": "string",
-      "defaultValue": "https://github.com/sabrefer/chat/tree/main/deploy/sabrechat.zip"
+      "defaultValue": "https://github.com/sabrefer/chat/tree/main/deploy/sabreChat.zip"
     }
   },
   "variables": {
