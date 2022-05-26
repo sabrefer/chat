@@ -51,8 +51,8 @@ export const EndScreen = (props: EndCallProps): JSX.Element => {
     }
   }, [isRejoiningThread, displayName, userId, rejoinHandler]);
 
-  const feedbackLink =
-    'https://docs.microsoft.com/answers/search.html?c=&includeChildren=&f=&type=question+OR+idea+OR+kbentry+OR+answer+OR+topic+OR+user&redirect=search%2Fsearch&sort=relevance&q=azure-communication-services';
+  const sabretoothLink =
+    'https://www.sabretoothtechnologies.com';
 
   return (
     <Stack
@@ -86,8 +86,8 @@ export const EndScreen = (props: EndCallProps): JSX.Element => {
           />
         </Stack>
         <div className={bottomStackFooterStyle}>
-          <Link href={feedbackLink}>Give Feedback</Link>
-          &nbsp;on this sample app at Microsoft Q&amp;A
+          <Link href={feedbackLink}>Sabretooth Innovative Technologies</Link>
+          Acclaimed Restaurant and Hospitality Software Solutions
         </div>
       </Stack>
     </Stack>
