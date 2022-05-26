@@ -154,7 +154,7 @@ export default (): JSX.Element => {
             <ThemeSelector label="Theme" horizontal={true} />
           </Stack>
         </Stack>
-        <Image styles={imageStyleProps} alt="Welcome to the ACS Chat sample app" className={imgStyle} {...imageProps} />
+        <Image styles={imageStyleProps} alt="Welcome to the Sabretooth Chat Sample App" className={imgStyle} {...imageProps} />
       </Stack>
     );
   };
