@@ -14,7 +14,7 @@
     },
     "packageUrl": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/sabrefer/chat/main/deploy/sabreChat.zip"
+      "defaultValue": "https://github.com/Azure-Samples/communication-services-web-chat-hero/releases/latest/download/group-chat.zip"
     }
   },
   "variables": {
